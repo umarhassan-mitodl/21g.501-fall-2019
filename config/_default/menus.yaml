@@ -1,0 +1,46 @@
+leftnav:
+- identifier: eeacac5f-c410-ab3b-e751-ed9d55e17d5b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5a6705c6-f463-d63d-785c-de1a2ac69c32
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: f2f4d17b-fbac-d7d1-0986-b66c34f7204c
+  name: Instructor Background
+  pageRef: /pages/instructor-insights/instructor-background
+  parent: 5a6705c6-f463-d63d-785c-de1a2ac69c32
+  weight: 30
+- identifier: 43e6af41-0732-f42f-4250-e9f186c50c96
+  name: A Focus on Communication
+  pageRef: /pages/instructor-insights/a-focus-on-communication
+  parent: 5a6705c6-f463-d63d-785c-de1a2ac69c32
+  weight: 40
+- identifier: dff6a562-e248-907c-fb73-dcf55c90fece
+  name: Creating a Supportive Classroom Environment
+  pageRef: /pages/instructor-insights/creating-a-supportive-classroom-environment
+  parent: 5a6705c6-f463-d63d-785c-de1a2ac69c32
+  weight: 50
+- identifier: 3bf9d9f5-abe3-c769-557f-7dd6a874eea0
+  name: Hiragana, Katakana, and Kanji
+  pageRef: /pages/instructor-insights/hiragana-katakana-and-kanji
+  parent: 5a6705c6-f463-d63d-785c-de1a2ac69c32
+  weight: 60
+- identifier: a641d405-4732-533a-a26c-3c15025e3def
+  name: Trying Something New
+  pageRef: /pages/instructor-insights/trying-something-new
+  parent: 5a6705c6-f463-d63d-785c-de1a2ac69c32
+  weight: 70
+- identifier: 0c3d94ff-4fa8-c5b8-829d-6c99cdc77f4a
+  name: In-class Activities, Assignments, and Quizzes
+  pageRef: /pages/in-class-activities-assignments-and-quizzes
+  weight: 80
+- identifier: 09072135-f776-5beb-c2ef-ad51c0c3180c
+  name: Interview Tests
+  pageRef: /pages/interview-tests
+  weight: 90
+- identifier: 8a367e2f-3269-222c-f41f-8250db29e62b
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 100
